@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\bin\Debug\Restraurant_P_1.exe.config
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\bin\Debug\Restraurant_P_1.exe
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\bin\Debug\Restraurant_P_1.pdb
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.New_register.resources
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.Open.resources
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.Properties.Resources.resources
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.Registeration.resources
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.exe
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.pdb
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.Interface.resources
+C:\Users\hp\source\repos\Restraurant_P_1\Restraurant_P_1\obj\Debug\Restraurant_P_1.MainForm.resources
